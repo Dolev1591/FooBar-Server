@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4673a4e6.css",
+    "main.js": "/static/js/main.76233c74.js",
+    "static/media/Bar_Ilan_logo.png": "/static/media/Bar_Ilan_logo.5f075732c566bc139d7a.png",
+    "static/media/night-mode.png": "/static/media/night-mode.69b1d1329c4e6ab9bcb9.png",
+    "static/media/photo-gallery.png": "/static/media/photo-gallery.7cc3cf4f78c007cdd3ba.png",
+    "static/media/video-camera.png": "/static/media/video-camera.c07fe566746d9d0d109c.png",
+    "static/media/pen.png": "/static/media/pen.2f3c168e25e0aef93944.png",
+    "static/media/smiling.png": "/static/media/smiling.255755f1866b27f851cc.png",
+    "static/media/group.png": "/static/media/group.ca11a49480da65c06bf7.png",
+    "static/media/messenger.png": "/static/media/messenger.8d0aa83d3c80326c10d7.png",
+    "static/media/liked.png": "/static/media/liked.0f2eb240314ed762b4b3.png",
+    "static/media/comment-icon.png": "/static/media/comment-icon.66d96f7f2aa4e57cd557.png",
+    "static/media/logout.png": "/static/media/logout.5c18bac2a31fc73a2d8e.png",
+    "index.html": "/index.html",
+    "main.4673a4e6.css.map": "/static/css/main.4673a4e6.css.map",
+    "main.76233c74.js.map": "/static/js/main.76233c74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4673a4e6.css",
+    "static/js/main.76233c74.js"
+  ]
+}
