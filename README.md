@@ -11,7 +11,7 @@ https://github.com/DeanCo100/FooBar-Server/tree/WikiBranch/WIKI
 1. At the beginning, as the DB is local, there are no posts or users, so you need to create at least one to connect to FooBar.
 2. I provide you a config folder, in the env.local file we decided that the project will run on port 8080 and the connection to the MongoDB is done with this string 'CONNECTION_STRING = "mongodb://127.0.0.1:27017/FooBar"
 ' so please keep the 8080 port free to use, and the mongo as well.
-3. The relevant parts of the client code are in the MainBranch03 branch in the Web repo, and in the main03 branch in the Android repo.
+3. The relevant parts of the client code are in the  in the Web repo, and in the  in the Android repo.
 4. For your convenience we added a 'data' folder with 2 json files - users and posts, you can add these files for your local DB and use them.
 
 
