@@ -1,9 +1,5 @@
 # Welcome to FooBar (Server-Client Edition (This is the Server repo))
 
-## Link to the wiki folder:
-https://github.com/DeanCo100/FooBar-Server/tree/WikiBranch/WIKI
-
-
 
 ## About the project:
 
